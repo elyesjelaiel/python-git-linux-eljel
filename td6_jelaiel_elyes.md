@@ -196,7 +196,7 @@ can you see all of them ?
 ``` git checkout - ```
 
 11. Undo your second commit by adding a new commit that reverts it.
-`
+
 
 12. Check the content of your root directory. Have your previous changes
 disappeard ?
@@ -205,11 +205,5 @@ disappeard ?
 13. Check your commit log history. Do you see your revert commit ?
 ``` ls ```
 
-14. Remove the last 2 commits from the history.
-```
 
-15. Check the content of your root directory. Have your previous changes
-disappeard ?
-
-
-16. Check your commit log history. Have you lost the last 2 commits ?
+## Exercice 9
